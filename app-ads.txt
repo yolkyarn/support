@@ -1,1 +1,4 @@
+#ads.txt yolkyarn.github.io/support/
+OWNERDOMAIN=yolkyarn.github.io/support/
+
 google.com, pub-1879276322795308, DIRECT, f08c47fec0942fa0
